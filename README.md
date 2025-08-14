@@ -1,6 +1,3 @@
-Alright — here’s the updated `README.md` with **Appendix F’s automated binary criteria table** embedded so the repo is self-contained.
-You can paste this directly over your current file.
-
 ```markdown
 # Universal Evidence Convergence Framework (UECF) – Public Repository
 
