@@ -1,0 +1,8 @@
+case_id,case_label,year_resolved,uecf_confidence,uecf_tier,actual_outcome
+1,Viking Settlement in Newfoundland,2001,92,Verified,True
+2,Piltdown Man Authenticity,1953,17,Speculative,False
+3,Clovis-First Migration,2015,63,Plausible,False
+4,Hittite-Troy Linkage,2004,88,Verified,True
+5,Pre-Columbian Polynesian Contact,2020,81,Plausible,True
+6,Shroud of Turin Radiocarbon Dating,1988,54,Speculative,False
+7,...,[fill in remaining 24 rows from your dataset]

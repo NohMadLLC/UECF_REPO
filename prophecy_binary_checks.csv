@@ -1,0 +1,5 @@
+evidence_id,evidence_label,peer_reviewed,replicated_ge2,physical_evidence,conf_95_or_higher,data_public,specific_dates,test_method,counterfactuals,multi_disprovables,indep_testable,distinct_authorship,no_shared_funding,no_top3_reference_overlap,crosscat_plus2,indep_lit_plus2
+1,Textual Clause Predicates (Dated),1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+2,Historical Migration Registers,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+3,Archaeological Strata Markers,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+4,Oral Traditions (Chain of Custody),0,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1
